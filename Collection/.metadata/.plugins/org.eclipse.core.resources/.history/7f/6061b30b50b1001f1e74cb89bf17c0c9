@@ -1,0 +1,10 @@
+package com.collection;
+import java.util.*;
+
+public class arraylist {
+	public static void main(String[] args) {
+		Collection cl=new ArrayList();
+		System.out.println(cl.size());
+		System.out.println(cl.isEmpty());
+	}
+}

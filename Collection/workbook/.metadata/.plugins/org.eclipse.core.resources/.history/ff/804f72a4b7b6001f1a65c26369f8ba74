@@ -1,0 +1,10 @@
+package workbook;
+import java.util.*;
+public class HashsetTreeSetLinkedList {
+		public static void main(String[] args) {
+			HashSet has1=new HashSet();
+			has1.add(new Integer(99));
+			System.out.println(has1.add("som"));
+			System.out.println(has1);
+		}
+}

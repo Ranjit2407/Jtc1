@@ -1,0 +1,14 @@
+package workbook;
+import java.util.*;
+public class HashMapIn {
+	public static void main(String[] args) {
+		HashMap h1=new HashMap();
+		System.out.println(h1);
+		System.out.println(h1.size());
+		System.out.println(h1.isEmpty());
+		h1.put("sid", new Integer(99));
+		h1.put("sname", "raj");
+		h1.put("email", "abc");
+		System.out.println(h1);
+	}
+}

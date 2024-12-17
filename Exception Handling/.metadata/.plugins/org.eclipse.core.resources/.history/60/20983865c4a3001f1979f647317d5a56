@@ -1,0 +1,23 @@
+package com.exception;
+class Hai{
+	void m1(int i) {
+		System.out.println("m1 in hai");
+		try {
+		if(i==0) {
+			throw new ArrayIndexOutOfBoundsException();
+		}else {
+			throw new ArithmeticException();
+		}
+		}catch(ArithmeticException e) {
+			System.out.println("plzz provide non zero value :"+e);
+		}
+	}
+}
+
+
+public class CheckedUnchecked {
+	public static void main(String[] args) {
+		Hai h1=new Hai();
+		h1.m1(1);
+	}
+}

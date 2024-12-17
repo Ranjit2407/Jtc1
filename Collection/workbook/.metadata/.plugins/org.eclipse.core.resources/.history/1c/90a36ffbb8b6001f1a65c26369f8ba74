@@ -1,0 +1,31 @@
+package workbook;
+import java.util.*;
+public class HashMapIn {
+	public static void main(String[] args) {
+		HashMap h1=new HashMap();
+		System.out.println(h1);
+		System.out.println(h1.size());
+		System.out.println(h1.isEmpty());
+		h1.put("sid", new Integer(99));
+		h1.put("sname", "raj");
+		h1.put("email", "abc");
+		System.out.println(h1);
+		System.out.println(h1.containsKey("sid"));
+		System.out.println(h1.containsKey("sid1"));
+		System.out.println(h1.containsValue("raj"));
+		System.out.println(h1.containsValue("raj1"));
+		System.out.println(h1.get("sname"));
+		System.out.println(h1);
+		h1.put("sname1", "kumar");
+		h1.put(null, "kumar");
+		h1.put(new Double(999.99), null);
+		System.out.println(h1);
+		
+		Collection col1=h1.values();
+		System.out.println(col1);
+		System.out.println("using keyset");
+		Set s1=h1.keySet();
+		System.out.println(s1);
+		
+	}
+}

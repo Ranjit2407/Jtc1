@@ -1,0 +1,6 @@
+java.lang.ArithmeticException: / by zero
+	at workbook/workbook.D.m3(six.java:28)
+	at workbook/workbook.C.m2(six.java:22)
+	at workbook/workbook.B.m1(six.java:16)
+	at workbook/workbook.A.show(six.java:10)
+	at workbook/workbook.six.main(six.java:34)

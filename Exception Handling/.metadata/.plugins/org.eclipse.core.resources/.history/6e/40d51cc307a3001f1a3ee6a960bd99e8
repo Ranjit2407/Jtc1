@@ -1,0 +1,13 @@
+package com.exception;
+
+public class Test {
+	public static void main(String arg[]) {
+		 System.out.println("main method");
+		 try {
+			 int i=Integer.parseInt(arg[0]);
+			 int i1=10/i;
+		 }catch(Exception e) {
+			 System.out.println(e);
+		 }
+	}
+}

@@ -1,0 +1,20 @@
+package workbook;
+import java.util.*;
+public class collection {
+	public static void main(String[] args) {
+		ArrayList aList=new ArrayList();
+		System.out.println(aList);
+		System.out.println(aList.size());
+		System.out.println(aList.isEmpty());
+		
+		aList.add(new Integer(99));
+		aList.add("raj");
+		aList.add(new Long(11111));
+		System.out.println(aList);
+		System.out.println(aList.isEmpty());
+		Object[] obj=aList.toArray();
+		System.out.println(obj.length);
+	}
+	
+	
+}

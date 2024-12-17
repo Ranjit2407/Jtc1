@@ -1,0 +1,13 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE directories (e.g., IntelliJ, Eclipse)
+.idea/
+.vscode/
+
+# Ignore build output directories
+bin/
+target/
+
+# Ignore log files
+*.log

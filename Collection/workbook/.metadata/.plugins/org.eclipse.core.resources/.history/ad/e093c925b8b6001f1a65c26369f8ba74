@@ -1,0 +1,9 @@
+package workbook;
+import java.util.*;
+public class HashMapIn {
+	public static void main(String[] args) {
+		HashMap h1=new HashMap();
+		System.out.println(h1);
+		System.out.println(h1.size());
+	}
+}

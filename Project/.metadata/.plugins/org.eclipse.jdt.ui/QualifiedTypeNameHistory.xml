@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="project.student.NormalUser"/>
+    <fullyQualifiedTypeName name="project.student.Admin"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.security.auth.login.LoginContext"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="project.student.Database"/>
+    <fullyQualifiedTypeName name="java.lang.classfile.attribute.StackMapFrameInfo.ObjectVerificationTypeInfo"/>
+    <fullyQualifiedTypeName name="project.student.User"/>
+</qualifiedTypeNameHistroy>

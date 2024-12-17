@@ -1,0 +1,10 @@
+package com.collection;
+import java.util.*;
+
+
+
+public class ennumaration {
+	Vector ve=new Vector();
+	ve.addElement("jtc india");
+	
+}

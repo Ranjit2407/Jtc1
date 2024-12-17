@@ -1,0 +1,25 @@
+package com.book;
+class Calc extends Thread{
+	public void run() {
+		int num1=4;
+		int num2=5;
+		int res=num1+num2;
+		System.out.println(res);
+	}
+}
+class Loop extends Thread{
+	public void run() {
+		for(int i=0;i<5;i++) {
+			System.out.println("Loop start");
+		}
+		System.out.println("Loop end......");
+	}
+}
+public class Thread1 {
+	public static void main(String[] args) {
+		Calc t1=new Calc();
+		Loop t2=new Loop();
+		t1.start();
+		t2.start();
+	}
+}

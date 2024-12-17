@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="com.exception.user"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.exception.InvalidServerIdException"/>
+    <fullyQualifiedTypeName name="java.net.UnknownServiceException"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.exception.Bexception"/>
+    <fullyQualifiedTypeName name="com.exception.Aexception"/>
+    <fullyQualifiedTypeName name="com.exception.Handling"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.InstantiationException"/>
+    <fullyQualifiedTypeName name="javax.lang.model.util.AbstractAnnotationValueVisitor14"/>
+    <fullyQualifiedTypeName name="com.exception.Room"/>
+    <fullyQualifiedTypeName name="com.exception.window"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+</qualifiedTypeNameHistroy>
