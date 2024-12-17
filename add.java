@@ -9,5 +9,6 @@ class Number{
 		//int class=9; //invalid keyword
 		
 		System.out.println(class);
+		System.out.println("rajni-gandha");
 	}
 }
